@@ -11,11 +11,6 @@ Building upon the foundation of the autoPET Challenges, this work addresses the 
 - **Multi-scale Detection**: Leveraged architectural diversity to address lesions of varying sizes and complexity, ensuring robustness across tracers and imaging protocols.  
 - **Performance**: Achieved a Dice coefficient of 0.81 in lesion segmentation, demonstrating strong generalization capabilities across the heterogeneous dataset provided by the autoPET III Challenge.  
 
-## Results  
-![Example of PET/CT Scan Results](images/pet_ct_example.png "PET/CT Example")
+ 
+![Screenshot from 2025-01-04 21-51-16](https://github.com/user-attachments/assets/f1d23499-7e7d-4b6a-9f01-c192549bbb6a)
 
-## How to Add Images to README.md  
-To include an image in your GitHub README, use the following syntax:  
-
-```markdown
-![Alt Text](image_path_or_URL "Optional Title")
